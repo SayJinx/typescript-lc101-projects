@@ -4,6 +4,11 @@
 
 // Part 1: Declare (5) Variables With Type
 
+let spacecraftName: string = "Determination";
+let speedMPH: number = 147500;
+let kilometersToMars: number = 225000000;
+let kilometersToTheMoon: number = 384400;
+let muilesPerKilometer: number = 0.621;
 
 
 // Part 2: Print Days to Mars
